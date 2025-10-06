@@ -59,3 +59,12 @@ span {
      margin-top: 10px;
      display: block;
 }
+
+/* Responsive */
+
+@media (max-width: 320px) {
+     input {
+          width: 172px !important;
+          padding: 0 !important;
+     }
+}
